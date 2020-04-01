@@ -14,8 +14,7 @@ Create a project in Adobe XD and create your app's design. Finally, import the d
  
  #### Project token
 	
-Respresso has project token for import data from outside tools. This token isn't same with your project token. You will find this token in path of  
-	//TODO ****
+Respresso has project token for import data from outside tools. This token isn't same with your project token.  You will find this token in path of Poject settings/Integration options.
 	
  #### Export mode
 This is a simple option to choose a comfortable way of the exportation. You can export all of your artboards or only the selected items.
