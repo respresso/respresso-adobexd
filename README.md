@@ -57,7 +57,7 @@ You can export all of your images from Adobe XD with a simple solution. Select a
 Change your image asset or add a new one export option. Image modification is fully supported. 
 	
 #### App Icon
-Create your app's icon(s) in Adobe XD. Respresso plugin supports Simple and Background - Foreground icons. To import app icons into Respresso you have to use specific keys for images.
+Create your app's icon(s) in Adobe XD. Respresso plugin supports Simple and Background - Foreground icons. To import app icons into Respresso you have to tick Mark for Export option under Appearance section on the right and use specific keys for images.
 * Singe icon key: App icon single
 * Background icon: App icon background
 * Foreground icon: App icon foreground
