@@ -1,4 +1,6 @@
-# Export assets from Adobe XD
+[<div align="center"><img src="https://github.com/pontehu/respresso-adobexd/blob/master/documentation/adobexd-header.png" height="220" /></div>](https://respresso.io)  
+
+# Export assets from Adobe XD with Respresso Adobe XD plugin [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Don't%20waste%20your%20time%21%20Respresso%20automatically%20delivers%20your%20design%20assets%20into%20your%20Respresso%20project&url=https://respresso.io&via=respresso_io&hashtags=designers,tool,plugin,localization,image,color,app-icon,resources,design-assets,automation,adobe-xd) 
  
 ## Introduction
 We created an integration tool for you to integrate your design assets easily from [Adobe XD](https://www.adobe.com/products/xd.html) to [Respresso](https://respresso.io). Let's see how to use it perfectly.
