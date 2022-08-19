@@ -1,3 +1,20 @@
+# 🛑 Docs out-of-date notice! 🛑
+This documentation is not updated anymore. 
+All documentation of Respresso moved to https://respresso.io/docs.
+## ✔️ Up-to-date docs of the Adobe XD plugin is here:
+| Content                       | Link                                                                         |
+| ----------------------------- | -----------------------------------------------------------------------------|
+| Installation + Usage          | https://respresso.io/docs/integration-adobe-xd-plugin                        |
+| Config options                | https://respresso.io/docs/integration-introduction                           |
+| Localization specific options | https://respresso.io/docs/localization/adobe-xd-plugin                       |
+| Image specific options        | https://respresso.io/docs/image/adobe-xd-plugin                              |
+| Color specific options        | https://respresso.io/docs/color/adobe-xd-plugin                              |
+| App icon specific options     | https://respresso.io/docs/app-icon/adobe-xd-plugin                           |
+
+## Seriously, 🛑 stop 🛑 here and go to the [new docs](https://respresso.io/docs/integration-adobe-xd-plugin)!
+
+---
+
 [<div align="center"><img src="https://github.com/pontehu/respresso-adobexd/blob/master/documentation/adobexd-header.png" height="220" /></div>](https://respresso.io)  
 
 # Export assets from Adobe XD with Respresso Adobe XD plugin [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Don't%20waste%20your%20time%21%20Respresso%20automatically%20delivers%20your%20design%20assets%20into%20your%20Respresso%20project&url=https://respresso.io&via=respresso_io&hashtags=designers,tool,plugin,localization,image,color,app-icon,resources,design-assets,automation,adobe-xd) 
